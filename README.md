@@ -7,3 +7,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+## Live Demo 
+- https://pratik-shewane.netlify.app/
